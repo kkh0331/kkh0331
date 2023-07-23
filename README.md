@@ -9,6 +9,8 @@
   
 - 📝 My overall GPA is 4.048/4.3 and my major GPA is 4.16/4.3
 
+- 🪪 Certificate : SQLD, ADsP, 정보처리기사(2023년 2회 실기 - 합격 점수 나옴)
+
 - 💰 Awards : 2023학년도 1학기 캡스톤 디자인 경진대회 우수상, 성적 우수상 3회
 
 - 📫 Contact : **kkh3272@naver.com**
