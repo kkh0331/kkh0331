@@ -3,11 +3,11 @@
 
 - 💻 Interested in **web development and AI**
 
-- 🎓 KHU Industrial management Engineering & Computer Science Enginerring
+- 🎓 KHU Industrial management Engineering & Computer Science Engineering
 
 - 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>
   
-- 📝 My overall GPA is 4.048/4.3 and my major GPA is 4.16/4.3
+- 📝 My overall GPA is **4.048/4.3** and my major GPA is **4.16/4.3**
 
 - 🪪 Certificate : SQLD, ADsP, 정보처리기사(2023년 2회 실기 - 합격 점수 나옴)
 
