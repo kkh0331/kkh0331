@@ -41,6 +41,14 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
+<h3>Tools</h3>
+<p>
+    <img src="https://img.shields.io/badge/visual studio code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode"/>
+    <img alt="pycharm" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+    <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 <h2>👨🏻‍💻 Outside Activities & Education </h2>
 <li>2022.06.27 ~ 2022.07.08 삼성생명 금융영업전문가 18기<br/></li>
 <li>2023.07.10 ~ 2023.07.14 핀테크 아카데미 인슈어테크 서비스 개발 과정 오픈 API 활용 보험 서비스 개발 실습<br/></li>
+<li>2023.07.31 ~ 2023.08.04 핀테크 아카데미 핀테크 서비스 개발 과정 오픈뱅킹 기반 간편결제/지급결제 실습<br/></li>
