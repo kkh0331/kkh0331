@@ -3,7 +3,7 @@
 
 - 💻 Interested in **web development and AI**
 
-- 🎓 KHU Industrial management Engineering & Computer Science Engineering
+- 🎓 KHU Industrial management Engineering & Computer Engineering
 
 - 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>, <a href="https://github.com/kkh0331/Keep_Budget"> 🏦 Keep_Budget</a>
   
