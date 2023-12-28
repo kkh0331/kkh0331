@@ -13,41 +13,11 @@
 
 - 💰 Awards : 2023학년도 1학기 캡스톤 디자인 경진대회 우수상, 성적 우수상 3회
 
-<h2>🛠 Tech stack</h2>
-<h3>Languages</h3>
-<p>
-     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
-     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-     <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-</p>
-
-<h3>Web/App Development</h3>
-<p>
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</p>
-
-<h3>Databases</h3>
-<p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-<h3>Tools</h3>
-<p>
-    <img src="https://img.shields.io/badge/visual studio code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode"/>
-    <img alt="pycharm" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-    <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img alt="colab" src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
-
-<h3>Libraries</h3>
-<p>
-    <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-</p>
+- 🛠 Tech stack
+    - Languages : Java, javascript, SQL, html, css
+    - Web Development : react, django
+    - Database : MySQL
+    - Tools : VSC, Pycharm, Postman
 
 <h2>👨🏻‍💻 Outside Activities & Education </h2>
 <li>2022.06.27 ~ 2022.07.08 삼성생명 금융영업전문가 18기<br/></li>
