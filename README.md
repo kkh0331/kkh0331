@@ -17,7 +17,7 @@
     - Languages : Java, javascript, SQL, html, css
     - Web Development : react, django
     - Database : MySQL
-    - Tools : VSC, Pycharm, Postman
+    - Tools : Visual Studio Code, Pycharm, Postman
 
 <h2>👨🏻‍💻 Outside Activities & Education </h2>
 <li>2022.06.27 ~ 2022.07.08 삼성생명 금융영업전문가 18기<br/></li>
