@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm KiHyun. Nice to meet you! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Nice to meet you! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2>🎤 About me</h2>
 
 - 💻 Interested in **financial full stack development**
