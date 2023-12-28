@@ -5,6 +5,8 @@
 
 - 🎓 KHU Industrial management Engineering & Computer Engineering
 
+- 📝 My overall GPA is **4.048/4.3** and my major GPA is **4.16/4.3**
+
 - 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>, <a href="https://github.com/kkh0331/Keep_Budget"> 🏦 Keep_Budget</a>
 
 - 🪪 Certificate : 정보처리기사, SQLD, ADsP
