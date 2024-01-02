@@ -1,6 +1,10 @@
 <h1 align="center">Nice to meet you! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2>🎤 About me</h2>
 
+- 🤫 장기적인 목표 : 끊임없이 성장하는 개발자
+
+- 😆 단기적인 목표 : 남들에게 인정받는 개발자
+
 - 💻 Interested in **Financial full stack development**
 
 - 🎓 KHU Industrial management Engineering & Computer Engineering
