@@ -7,7 +7,6 @@
 - 🎓 KHU Industrial management Engineering & Computer Engineering
 - 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>, <a href="https://github.com/kkh0331/Keep_Budget"> 🏦 Keep_Budget</a>
 - 🪪 Certificate : 정보처리기사, SQLD, ADsP
-- 💰 Awards : 2023학년도 1학기 캡스톤 디자인 경진대회 우수상, 성적 우수상 3회
 
 <h2>🛠 Tech stack</h2>
 <h3>Languages</h3>
