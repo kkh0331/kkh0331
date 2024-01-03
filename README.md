@@ -37,8 +37,9 @@
     <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<h2>👨🏻‍💻 Outside Activities & Education </h2>
+<h2>👨🏻‍💻 Education </h2>
 
 - 2022.06.27 ~ 2022.07.08 삼성생명 금융영업전문가 18기
 - 2023.07.31 ~ 2023.08.04 핀테크 아카데미 핀테크 서비스 개발 과정 오픈뱅킹 기반 간편결제/지급결제 실습
+- 2023.08.21 ~ 2023.08.25 핀테크 아카데미 인공지능 서비스 개발 과정
 - 2023.12.27 ~ 신한투자증권 프로 디지털 아카데미 3기
