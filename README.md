@@ -5,7 +5,7 @@
 - 🤫 I want to be a developer who grows day by day and has reliability.
 - 💻 Interested in **Financial full stack development**
 - 🎓 KHU Industrial management Engineering & Computer Engineering
-- 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>, <a href="https://github.com/kkh0331/Keep_Budget"> 🏦 Keep_Budget</a>
+- 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>
 - 🪪 Certificate : 정보처리기사, SQLD, ADsP
 
 <h2>🛠 Tech stack</h2>
