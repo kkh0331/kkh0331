@@ -2,7 +2,7 @@
 
 ## 🎤 About me
 
-- 🤫 날마다 **성장**하고 **신뢰성**을 지닌 개발자가 되고 싶습니다.
+- 🤫 I want to be a developer who grows day by day and has reliability.
 - 💻 Interested in **Financial full stack development**
 - 🎓 KHU Industrial management Engineering & Computer Engineering
 - 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>, <a href="https://github.com/kkh0331/Keep_Budget"> 🏦 Keep_Budget</a>
