@@ -1,18 +1,12 @@
 <h1 align="center">Nice to meet you! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h2>🎤 About me</h2>
 
-- 🤫 장기적인 목표 : 끊임없이 성장하는 개발자
+## 🎤 About me
 
-- 😆 단기적인 목표 : 남들에게 인정받는 개발자
-
+- 🤫 날마다 **성장**하고 **신뢰성**을 지닌 개발자가 되고 싶습니다.
 - 💻 Interested in **Financial full stack development**
-
 - 🎓 KHU Industrial management Engineering & Computer Engineering
-
 - 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>, <a href="https://github.com/kkh0331/Keep_Budget"> 🏦 Keep_Budget</a>
-
 - 🪪 Certificate : 정보처리기사, SQLD, ADsP
-
 - 💰 Awards : 2023학년도 1학기 캡스톤 디자인 경진대회 우수상, 성적 우수상 3회
 
 <h2>🛠 Tech stack</h2>
